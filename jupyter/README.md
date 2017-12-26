@@ -43,7 +43,9 @@ Enumerate people in my lounge and their features:
 7. Kevin
 
 Today's Christmas, let's insert a portrait of mine:
-<img src="./pic/christmas.jpg" style="width: 200px;"/>
+<p align="center">
+<img src="./pic/christmas.jpg" width="200"/>
+</p>
 
 Inline code: `int i = 1;` . Or indent with four space:  
 
